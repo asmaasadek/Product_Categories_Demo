@@ -6,3 +6,9 @@
 login.name = joe, login.password = abc123
 
 
+
+NOTE:
+You could get a list of products by a concrete category, attached with each product the other categories that it may belong to also
+You could use the uploaded 'query TEST' to test for adding products under categories and test them back.
+
+
