@@ -1,4 +1,4 @@
-# Adcash_demo
+# Runnin_demo
 
 1- MySQL DB should be working on your machine with schema /mydb. A SQLScript file is uploaded with project for schema and tables.
 
